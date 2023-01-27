@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Felipe Travi
+
+- [Contato](https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
