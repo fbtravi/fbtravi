@@ -1,3 +1,8 @@
+<p align="center">Profile views</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/fbtravi/count.svg">
+</div>
+
 - 👋 Hi, I’m Felipe Travi
 
 - [Contato](https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/)
