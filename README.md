@@ -4,18 +4,19 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Felipe Travi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbtravi" alt="fbtravi" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbtravi&column=4&margin-w=40&margin-h=10&no-bg=true&no-frame=true&theme=discord" alt="fbtravi" /></a> </p>
 
 - 📫 How to reach me **fbtravi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" height="30" width="40" /></a>
 <a href="https://discord.gg/Fbshow#8386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fbshow#8386" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/bash_logo.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
@@ -33,7 +34,12 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://external-preview.redd.it/zeWVM6mJJ-bcipB-yFhOWD11IQG88VQN66yMUW8T1Bo.jpg?auto=webp&s=aab521c6bde92e8a04c0869900d7e86d1c249f96" alt="terraform" width="40" height="40"/> </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> </a>
 
 </p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fbtravi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<p align="center"> 
+<img height="137px" width="370" src="https://github-readme-stats.vercel.app/api?username=fbtravi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+<img height="137px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbtravi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</p>
