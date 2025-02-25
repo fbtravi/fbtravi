@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" height="30" width="40" /></a>
 <a href="https://discord.gg/Fbshow#8386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fbshow#8386" height="30" width="40" /></a>
 </p>
 
