@@ -1,0 +1,23 @@
+name: Contribution snake
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+permissions: { contents: read }
+concurrency: { group: contribution-snake, cancel-in-progress: false }
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: { contents: write }
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#0E6375&color_dots=#E6F6FA,#CFFAFE,#67E8F9,#22D3EE,#0891B2
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#67E8F9&color_dots=#102A43,#164E63,#0E7490,#0891B2,#22D3EE
+        env: { GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}' }
+      - uses: crazy-max/ghaction-github-pages@v4
+        with: { target_branch: output, build_dir: dist }
+        env: { GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}' }

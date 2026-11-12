@@ -1,44 +1,42 @@
-<p align="center">Profile views</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/fbtravi/count.svg">
-</div>
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
-<h1 align="center">Hi 👋, I'm Felipe Travi</h1>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=102A43&amp;height=160&amp;text=Felipe%20Travi&amp;fontColor=67E8F9&amp;fontSize=42&amp;desc=DevOps%20Specialist&amp;descSize=18&amp;descAlignY=75"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=E6F6FA&amp;height=160&amp;text=Felipe%20Travi&amp;fontColor=0E6375&amp;fontSize=42&amp;desc=DevOps%20Specialist&amp;descSize=18&amp;descAlignY=75" alt="Felipe Travi | DevOps Specialist"></picture>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;pause=1600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=400&amp;lines=Infrastructure+%26+DevOps;SRE+%26+observability;Cloud+%26+Kubernetes;Automation+%26+IaC"><img width="400" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;pause=1600&amp;color=0E6375&amp;center=true&amp;vCenter=true&amp;width=400&amp;lines=Infrastructure+%26+DevOps;SRE+%26+observability;Cloud+%26+Kubernetes;Automation+%26+IaC" alt="Focus: infrastructure and DevOps; SRE and observability; cloud and Kubernetes; automation and infrastructure as code."></picture></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbtravi&column=4&margin-w=40&margin-h=10&no-bg=true&no-frame=true&theme=discord" alt="fbtravi" /></a> </p>
+## About me
 
-- 📫 How to reach me **fbtravi@hotmail.com**
+- 🇧🇷 DevOps Specialist at [Globo](https://github.com/globocom), based in Brazil.
+- My focus: infrastructure, SRE, observability, cloud, Kubernetes and automation.
+- Currently studying Terraform, GCP, OCI, AWS, AI-assisted development and Nginx.
+- Open-source contributions include thumbor and terraform-provider-rpaas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/" height="30" width="40" /></a>
-<a href="https://discord.gg/Fbshow#8386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fbshow#8386" height="30" width="40" /></a>
-</p>
+## Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/bash_logo.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://external-preview.redd.it/zeWVM6mJJ-bcipB-yFhOWD11IQG88VQN66yMUW8T1Bo.jpg?auto=webp&s=aab521c6bde92e8a04c0869900d7e86d1c249f96" alt="terraform" width="40" height="40"/> </a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> </a>
+<table>
+<tr><th align="left">Area</th><th align="left">Tools</th></tr>
+<tr><td>Cloud &amp; infrastructure</td><td><img src="https://img.shields.io/badge/Docker-102A43?style=flat-square&amp;logo=docker&amp;logoColor=67E8F9" alt="Docker"> <img src="https://img.shields.io/badge/GCP-102A43?style=flat-square&amp;logo=googlecloud&amp;logoColor=67E8F9" alt="Google Cloud"> <img src="https://img.shields.io/badge/Kubernetes-102A43?style=flat-square&amp;logo=kubernetes&amp;logoColor=67E8F9" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-102A43?style=flat-square&amp;logo=terraform&amp;logoColor=67E8F9" alt="Terraform"> <img src="https://img.shields.io/badge/Linux-102A43?style=flat-square&amp;logo=linux&amp;logoColor=67E8F9" alt="Linux"> <img src="https://img.shields.io/badge/Nginx-102A43?style=flat-square&amp;logo=nginx&amp;logoColor=67E8F9" alt="Nginx"></td></tr>
+<tr><td>CI/CD &amp; testing</td><td><img src="https://img.shields.io/badge/Jenkins-102A43?style=flat-square&amp;logo=jenkins&amp;logoColor=67E8F9" alt="Jenkins"> <img src="https://img.shields.io/badge/Git-102A43?style=flat-square&amp;logo=git&amp;logoColor=67E8F9" alt="Git"> <img src="https://img.shields.io/badge/Selenium-102A43?style=flat-square&amp;logo=selenium&amp;logoColor=67E8F9" alt="Selenium"></td></tr>
+<tr><td>Observability</td><td><img src="https://img.shields.io/badge/Grafana-102A43?style=flat-square&amp;logo=grafana&amp;logoColor=67E8F9" alt="Grafana"> <img src="https://img.shields.io/badge/Kibana-102A43?style=flat-square&amp;logo=kibana&amp;logoColor=67E8F9" alt="Kibana"> <img src="https://img.shields.io/badge/Prometheus-102A43?style=flat-square&amp;logo=prometheus&amp;logoColor=67E8F9" alt="Prometheus"></td></tr>
+<tr><td>Databases</td><td><img src="https://img.shields.io/badge/MySQL-102A43?style=flat-square&amp;logo=mysql&amp;logoColor=67E8F9" alt="MySQL"> <img src="https://img.shields.io/badge/Oracle-102A43?style=flat-square" alt="Oracle Database"> <img src="https://img.shields.io/badge/PostgreSQL-102A43?style=flat-square&amp;logo=postgresql&amp;logoColor=67E8F9" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-102A43?style=flat-square&amp;logo=redis&amp;logoColor=67E8F9" alt="Redis"></td></tr>
+<tr><td>Languages &amp; scripts</td><td><img src="https://img.shields.io/badge/Bash-102A43?style=flat-square&amp;logo=gnubash&amp;logoColor=67E8F9" alt="Bash"> <img src="https://img.shields.io/badge/Python-102A43?style=flat-square&amp;logo=python&amp;logoColor=67E8F9" alt="Python"></td></tr>
+</table>
 
-</p>
+## Selected projects
 
-<p align="center">
-<img height="137px" width="370" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fbtravi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+| Project | Context |
+| :--- | :--- |
+| [terraform-templates](https://github.com/fbtravi/terraform-templates) | Personal repository. [PREENCHER: confirmar finalidade e exemplos disponiveis] |
+| [thumbor](https://github.com/fbtravi/thumbor) | Contribution fork of the open-source image processing service. |
+| [terraform-provider-rpaas](https://github.com/fbtravi/terraform-provider-rpaas) | Contribution fork of the Terraform provider for RPaaS. |
+| [fourkeys](https://github.com/fbtravi/fourkeys) | Study fork: software delivery performance metrics. |
+| [AdmLinuxEd02](https://github.com/fbtravi/AdmLinuxEd02) | Study fork: Linux system administration course from UCS. |
 
-<img height="137px" width="370" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fbtravi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+## GitHub activity
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fbtravi&amp;show_icons=true&amp;hide_border=true&amp;title_color=67E8F9&amp;icon_color=67E8F9&amp;text_color=E6EDF3&amp;bg_color=102A43"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=fbtravi&amp;show_icons=true&amp;hide_border=true&amp;title_color=0E6375&amp;icon_color=0E6375&amp;text_color=243B53&amp;bg_color=E6F6FA" alt="Felipe Travi's public GitHub statistics: commits, contributions, stars and pull requests."></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fbtravi&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;title_color=67E8F9&amp;text_color=E6EDF3&amp;bg_color=102A43"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbtravi&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;title_color=0E6375&amp;text_color=243B53&amp;bg_color=E6F6FA" alt="Language distribution in eligible public repositories; not a measure of proficiency."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fbtravi/fbtravi/output/github-contribution-grid-snake-dark.svg"><img width="100%" src="https://raw.githubusercontent.com/fbtravi/fbtravi/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Felipe Travi's GitHub contribution calendar, generated daily with GitHub Actions."></picture></p>
+
+## Connect
+
+<p align="center"><a href="mailto:fbtravi@hotmail.com"><img src="https://img.shields.io/badge/Email-fbtravi%40hotmail.com-102A43?style=flat-square" alt="Email Felipe Travi at fbtravi@hotmail.com"></a> <a href="https://www.linkedin.com/in/felipe-besteiro-travi-430bb8135/"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Travi-102A43?style=flat-square" alt="Felipe Travi on LinkedIn"></a></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&amp;color=102A43&amp;height=80&amp;section=footer"><img width="100%" src="https://capsule-render.vercel.app/api?type=wave&amp;color=E6F6FA&amp;height=80&amp;section=footer" alt="Footer wave in the profile's blue and cyan palette."></picture>
